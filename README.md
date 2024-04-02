@@ -1,6 +1,7 @@
 Este script sirve para parsear cada X tiempo las una lista grande de IP's y parsea por todas las palabras que quieras agarradas de una lista.
 
 Ejemplo de ejecución:
+
 web_stealer.sh lista_ip.txt lista_palabras_a_buscar.txt 60
 
 El primer parametro indica la lista de IP's (aclarar puerto).
