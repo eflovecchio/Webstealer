@@ -1,0 +1,15 @@
+pass
+user
+key
+api
+apikey
+secret
+db
+mysql
+redis
+ftp
+nagios
+function
+html
+-p
+-u
